@@ -1,2 +1,2 @@
-# learninghowtocode2025.com
+# learninghowtocode2025.github.io
 Learning how to code
